@@ -1,5 +1,5 @@
 import React from 'react';
-import TouristPlace from './components/TouristPlace';
+import TouristPlace from './TouristPlace';
 
 const touristPlaces = [
   {
